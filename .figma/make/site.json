@@ -1,0 +1,11 @@
+{
+  "title": "MYFLIX",
+  "description": "Browse and watch personal videos across documentaries, workouts, and screen recordings, with live search, playback controls, and a customizable saved list.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
